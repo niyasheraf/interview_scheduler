@@ -9,7 +9,7 @@ There are 2 API end points
       {
         "user_id": 1,
         "from_time": "24-05-2020 20:00",
-        "to_time": "24-05-2020 22:00",
+        "to_time": "24-05-2020 22:00"
       }
       
 2. http://127.0.0.1:8000/slots/?interviewer_id=1&candidate_id=2&duration=.5
